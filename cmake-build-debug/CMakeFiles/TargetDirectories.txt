@@ -1,0 +1,3 @@
+C:/Users/Kim/Desktop/Skola/Prakticum/c++/operators/cmake-build-debug/CMakeFiles/operators.dir
+C:/Users/Kim/Desktop/Skola/Prakticum/c++/operators/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Kim/Desktop/Skola/Prakticum/c++/operators/cmake-build-debug/CMakeFiles/rebuild_cache.dir
