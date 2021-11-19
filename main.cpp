@@ -48,6 +48,7 @@ int main() {
         calculation();
     }
     else {
+        cout << "program terminating"<<endl;
         return 0;
     }
     return 0;
